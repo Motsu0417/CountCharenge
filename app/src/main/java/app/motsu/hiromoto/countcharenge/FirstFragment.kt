@@ -6,6 +6,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 
+// Doggy: 自動生成されたコードを消してるのナイス！！
+//  今回は onCreate も不要なので、消してしまって良さそう！
 class FirstFragment : Fragment() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

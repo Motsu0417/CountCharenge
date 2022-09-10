@@ -17,6 +17,7 @@ class TitleActivity : AppCompatActivity() {
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
             finish()
+            // Doggy: Fragment へのチャレンジナイス！！
 //            val fragmentManager = supportFragmentManager
 //            val fragmentTransaction = fragmentManager.beginTransaction()
 //            val fragment = ThirdFragment()
